@@ -5,7 +5,7 @@
 - [Les bases de données pour la manipulation des données d'affaires](./tutoriels/sgbd/README.md)  ([ref](https://github.com/Yvem22/Tutoriel-base-de-donn-e))
 - [Les API pour la manipulation des données d'affaires](./tutoriels/api/README.md)  ([ref](https://github.com/FredLangevin/Tutoriel-API/tree/main))
 - [Les fichiers Excel pour la manipulation des données d'affaires](./tutoriels/excel/README.md)  ([ref](https://github.com/evegrenier/Tutoriel))
-- 
+- [Le format de données parquet pour la manipulation des données d'affaires](./tutoriels/parquet/README.md) 
 
 ## Bibliothèques spécialisées
 - [La bibliothèque `pandas` pour la manipulation des données d'affaires](./tutoriels/pandas/README.md)  ([ref](https://github.com/ShanyRoberge/Projet-tutoriel))
