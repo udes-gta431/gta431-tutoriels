@@ -1,0 +1,27 @@
+============== Projet DataOps ============== 
+
+1. Pour visualiser le projet markdown clique sur projet
+
+2. Les codes pour les exemples sont dans scripts/ ----- clean_sales_data
+				                  ----- fetch_sales_data 
+				                  ----- visualize_sales_data
+
+3. Pour l'executer ======= PREREQUIS SUR TON IDE =======
+	
+	Terminal: 
+	pip install requests pandas matplotlib
+
+	Ouvrez un terminal ou une invite de commande et naviguez jusqu'au dossier contenant vos scripts. 
+	Vous pouvez utiliser la commande cd pour changer de répertoire. 
+	Par exemple, si vos scripts sont dans un dossier nommé dataops_tutorial sur votre bureau, vous pouvez y accéder ainsi (sous Windows) :
+	
+	Windows : 
+	cd C:\Users\elpab\Desktop\projet(data_ops)_charles\fichiers_python_exemple 5 EXEMPLE
+	
+	Linux et macOS :
+	cd ~/Desktop/dataops_tutorial
+
+						   
+	 
+
+ 
