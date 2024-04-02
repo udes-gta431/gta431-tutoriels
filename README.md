@@ -24,4 +24,4 @@
 - [Les gists pour accélérer la manipulation des données d'affaires](./tutoriels/gists/README.md)  ([ref](https://github.com/noemiebelley/Tutoriel-GISTS.Github))
 
 ## Gestion de projet
-- [Introduction au DataOps]() ([ref](https://github.com/Charlesb989/Projet-DataOps1))
+- [Introduction au DataOps](./tutoriels/dataops/README.md) ([ref](https://github.com/Charlesb989/Projet-DataOps1))
