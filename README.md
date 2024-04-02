@@ -9,7 +9,7 @@
 
 ## Bibliothèques spécialisées
 - [La bibliothèque `pandas` pour la manipulation des données d'affaires](./tutoriels/pandas/README.md)  ([ref](https://github.com/ShanyRoberge/Projet-tutoriel))
-- [Utiliser un ORM pour d'abstraire du langage SQL](./tutoriels/orm/) ([ref](https://github.com/emilehuardudes/GTA431-tutoriels))
+- [Utiliser un ORM pour d'abstraire du langage SQL](./tutoriels/orm/README.md) ([ref](https://github.com/emilehuardudes/GTA431-tutoriels))
 - [Le moissonnage du Web (_Web Scraping_) pour obtenir des données](./tutoriels/scraping/README.md) ([ref](https://github.com/JasmineDuplessis/livrable-tutoriel-web-scrapping))
 
 ## Langage Python
