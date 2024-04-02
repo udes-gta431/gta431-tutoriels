@@ -9,6 +9,8 @@
 
 ## Bibliothèques spécialisées
 - [La bibliothèque `pandas` pour la manipulation des données d'affaires](./tutoriels/pandas/README.md)  ([ref](https://github.com/ShanyRoberge/Projet-tutoriel))
+- [Utiliser un ORM pour d'abstraire du langage SQL]() ([ref](https://github.com/emilehuardudes/GTA431-tutoriels)
+- [Le moissonnage du Web (_Web Scraping_) pour obtenir des données]() ([ref](https://github.com/JasmineDuplessis/livrable-tutoriel-web-scrapping))
 
 ## Langage Python
 - [Les structures de données listes et dictionnaires pour la manipulation des données d'affaires](./tutoriels/structures/README.md)  ([ref](https://github.com/sarabelk25/tutoriel/tree/main))
@@ -20,3 +22,6 @@
 
 ## GitHub 
 - [Les gists pour accélérer la manipulation des données d'affaires](./tutoriels/gists/README.md)  ([ref](https://github.com/noemiebelley/Tutoriel-GISTS.Github))
+
+## Gestion de projet
+- [Introduction au DataOps]() ([ref](https://github.com/Charlesb989/Projet-DataOps1))
