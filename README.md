@@ -14,6 +14,7 @@
 
 ## Langage Python
 - [Les structures de données listes et dictionnaires pour la manipulation des données d'affaires](./tutoriels/structures/README.md)  ([ref](https://github.com/sarabelk25/tutoriel/tree/main))
+- [Distinguer les listes et les tuples en Python](./tutoriels/structures02/README.md) ([ref](https://github.com/carj1826/Tutoriel))
 - [Les données au format `datetime` pour la manipulation des données d'affaires](./tutoriels/datetime/README.md)  ([ref](https://github.com/pitalain/Tutoriel))
 - [Les données au format `dataframe` pour la manipulation des données d'affaries](./tutoriels/dataframe/README.md)  ([ref](https://github.com/udes-gta431/gta431-livrable-tutoriel-SIMR2601/blob/main/tutoriel.md))
 - [Les exceptions pour la manipulation des données d'affaires](./tutoriels/exceptions/README.md)  ([ref](https://github.com/Jeldaayubi/Gestion-des-exceptions-en-Python/blob/main/README.md)) 
@@ -23,6 +24,7 @@
 ## GitHub 
 - [Les gists pour accélérer la manipulation des données d'affaires](./tutoriels/gists/README.md)  ([ref](https://github.com/noemiebelley/Tutoriel-GISTS.Github))
 
-## Gestion de projet
+## Gestion de projet, environnements et connectivité
 - [Jupyter Notebook, une alternative à l'IDE](./tutoriels/jupyter/README.md) ([ref](https://github.com/TomassinaBB/Jupyter-Notebook-et-PyCharm-Comparaison-et-Utilisation))
 - [Introduction au DataOps](./tutoriels/dataops/README.md) ([ref](https://github.com/Charlesb989/Projet-DataOps1))
+- [Utiliser Python dans Power BI](./tutoriels/powerbi/README.md) ([ref](https://github.com/Andropyne/Tutoriel-Python-dans-Power-BI))
