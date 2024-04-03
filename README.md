@@ -30,4 +30,5 @@
 - [Introduction au DataOps](./tutoriels/dataops/README.md) ([ref](https://github.com/Charlesb989/Projet-DataOps1))
 - [Utiliser Python dans Power BI](./tutoriels/powerbi/README.md) ([ref](https://github.com/Andropyne/Tutoriel-Python-dans-Power-BI))
 - [Automatiser la production d'une présentation PPTX en Python](./tutoriels/pptx/README.md) ([ref](https://github.com/andrea-vreug/Turotiel_GTA431))
+- [L'environnement virutel pour les projet en Python](./tutoriels/venv/README.md) ([ref](https://github.com/MelisandeCC/Tutoriel_venv/tree/main))
 
