@@ -16,7 +16,7 @@
 - [Les variables globales et les variables locales](./tutoriels/variables/README.md) ([ref](https://github.com/LaurieUDES/Tutoriel-variables-locales-et-globales))
 - [Les structures de données listes et dictionnaires pour la manipulation des données d'affaires](./tutoriels/structures/README.md)  ([ref](https://github.com/sarabelk25/tutoriel/tree/main))
 - [Distinguer les listes et les tuples en Python](./tutoriels/structures02/README.md) ([ref](https://github.com/carj1826/Tutoriel))
-- [Manipulations des dictinnaires](./tutoriels/dictionnaires/README.md) ([ref](https://github.com/zacharydb/Tutoriel))
+- [Manipulations des dictionnaires](./tutoriels/dictionnaires/README.md) ([ref](https://github.com/zacharydb/Tutoriel))
 - [Les données au format `datetime` pour la manipulation des données d'affaires](./tutoriels/datetime/README.md)  ([ref](https://github.com/pitalain/Tutoriel))
 - [Les données au format `dataframe` pour la manipulation des données d'affaries](./tutoriels/dataframe/README.md)  ([ref](https://github.com/udes-gta431/gta431-livrable-tutoriel-SIMR2601/blob/main/tutoriel.md))
 - [Les exceptions pour la manipulation des données d'affaires](./tutoriels/exceptions/README.md)  ([ref](https://github.com/Jeldaayubi/Gestion-des-exceptions-en-Python/blob/main/README.md)) 
