@@ -12,13 +12,13 @@ L'utilisation appropriée de *enumerate()* renforce la maniére dont on gére de
 
 Afin de mieux découvrir la fonction *enumerate()* nous allons explorer les données d'un fichier csv nommé "New york city housing" et parcourir les éléments de ce fichier mais sous la forme de tout les conteneurs **(listes/ensembles/dictionnaires/tuples)**. 
 nous allons aussi explorer les situations courantes où la fonction enumerate peut être utile telles que:<br>
-- L'itération avec un accès aux index<br>
-- L'Affichage des éléments avec leurs indices
+L'itération avec un accès aux index<br>
+L'Affichage des éléments avec leurs indices
 
 
 # Connaissances Préalables
  Afin de suivre ce tutoriel,il est important d'avoir des connaissances de base en Python, notamment sur les concepts suivants:<br>
-- **Les conteneurs sous python(listes/dictionnaires/ensembles/tuples)**.<br>
+-**Les conteneurs sous python(listes/dictionnaires/ensembles/tuples)**.<br>
 # Premiére utilisation avec *enumerate()* dans les conteneur pythons
 Dans cet exemple nous pouvons voir comment parcourir et accéder aux éléments d'un fichier csv en stockant son contenu dans **une liste** tout en utilisant la fonction *enumerate()*.<br>
 Pour avoir accés au contenu du fichier csv nous devons faire appel au module **csv**.<br>
