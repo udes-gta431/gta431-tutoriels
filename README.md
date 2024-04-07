@@ -13,6 +13,7 @@
 - [Le moissonnage du Web (_Web Scraping_) pour obtenir des données](./tutoriels/scraping/README.md) ([ref](https://github.com/JasmineDuplessis/livrable-tutoriel-web-scrapping))
 
 ## Langage Python
+- [Structure de projet de manipulation de données d'affaires](./tutoriels/projet/structure_projet.md) ([ref](https://github.com/udes-gta431/gta431-livrable-tutoriel-lyudmylakovb/tree/main))
 - [Les variables globales et les variables locales](./tutoriels/variables/README.md) ([ref](https://github.com/LaurieUDES/Tutoriel-variables-locales-et-globales))
 - [Les structures de données listes et dictionnaires pour la manipulation des données d'affaires](./tutoriels/structures/README.md)  ([ref](https://github.com/sarabelk25/tutoriel/tree/main))
 - [Distinguer les listes et les tuples en Python](./tutoriels/structures02/README.md) ([ref](https://github.com/carj1826/Tutoriel))
