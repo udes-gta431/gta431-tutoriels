@@ -21,6 +21,7 @@
 - [Manipulations des `dict`](./tutoriels/dictionnaires/README.md) ([ref](https://github.com/zacharydb/Tutoriel))
 - [Les données au format `datetime` pour la manipulation des données d'affaires](./tutoriels/datetime/README.md)  ([ref](https://github.com/pitalain/Tutoriel))
 - [Les données au format `dataframe` pour la manipulation des données d'affaries](./tutoriels/dataframe/README.md)  ([ref](https://github.com/udes-gta431/gta431-livrable-tutoriel-SIMR2601/blob/main/tutoriel.md))
+- [Les données manquantes dans un `dataframe` pour la manipulation des données d'affaires](./tutoriels/na/turiels.md) ([ref](https://github.com/udes-gta431/gta431-livrable-tutoriel-SIMR2601/tree/main))
 - [Les exceptions pour la manipulation des données d'affaires](./tutoriels/exceptions/README.md)  ([ref](https://github.com/Jeldaayubi/Gestion-des-exceptions-en-Python/blob/main/README.md)) 
 - [La fonction `enumerate()` pour la manipulation des données d'affaires](./tutoriels/enumerate/README.md)  ([ref](https://github.com/azzaaminahajri/tutoriel-sur-la-fonction-enumerate))
 - [Les expressions régulières (REGEX) pour la manipulation des données d'affaires](./tutoriels/regex/README.md)  ([ref](https://github.com/pitchjr77/Tutoriel_Regex101_GTA431_PICS2704/tree/main))
