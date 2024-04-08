@@ -24,6 +24,7 @@
 - [Les exceptions pour la manipulation des données d'affaires](./tutoriels/exceptions/README.md)  ([ref](https://github.com/Jeldaayubi/Gestion-des-exceptions-en-Python/blob/main/README.md)) 
 - [La fonction `enumerate()` pour la manipulation des données d'affaires](./tutoriels/enumerate/README.md)  ([ref](https://github.com/azzaaminahajri/tutoriel-sur-la-fonction-enumerate))
 - [Les expressions régulières (REGEX) pour la manipulation des données d'affaires](./tutoriels/regex/README.md)  ([ref](https://github.com/pitchjr77/Tutoriel_Regex101_GTA431_PICS2704/tree/main))
+- [Le fonction `lambda` en Python](./tutoriels/lambda/README.md) ([ref](https://github.com/EdouardLitjens/Tutoriel-Remise))
 
 ## GitHub 
 - [Les gists pour accélérer la manipulation des données d'affaires](./tutoriels/gists/README.md)  ([ref](https://github.com/noemiebelley/Tutoriel-GISTS.Github))
