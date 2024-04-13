@@ -31,8 +31,8 @@
 - [Les gists pour accélérer la manipulation des données d'affaires](./tutoriels/gists/README.md)  ([ref](https://github.com/noemiebelley/Tutoriel-GISTS.Github))
 
 ## Gestion de projet, environnements et connectivité
-- [L'environnement virutel pour les projet en Python](./tutoriels/venv/README.md) ([ref](https://github.com/MelisandeCC/Tutoriel_venv/tree/main))
-- - [Jupyter Notebook, une alternative à l'IDE](./tutoriels/jupyter/README.md) ([ref](https://github.com/TomassinaBB/Jupyter-Notebook-et-PyCharm-Comparaison-et-Utilisation))
+- [L'environnement virtuel pour les projet en Python](./tutoriels/venv/README.md) ([ref](https://github.com/MelisandeCC/Tutoriel_venv/tree/main))
+- [Jupyter Notebook, une alternative à l'IDE](./tutoriels/jupyter/README.md) ([ref](https://github.com/TomassinaBB/Jupyter-Notebook-et-PyCharm-Comparaison-et-Utilisation))
 - [Introduction au DataOps](./tutoriels/dataops/README.md) ([ref](https://github.com/Charlesb989/Projet-DataOps1))
 - [Utiliser Python dans Excel](./tutoriels/excel/README.md) ([ref](https://github.com/evegrenier/Tutoriel))
 - [Utiliser Python dans Power BI](./tutoriels/powerbi/README.md) ([ref](https://github.com/Andropyne/Tutoriel-Python-dans-Power-BI))
